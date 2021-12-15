@@ -9,3 +9,4 @@ To run the training files follow the below steps:
     # Loading dataset of command injection
     PATH_TO_DATASET = '/content/gdrive/MyDrive/command-injection-merged.xlsx'
     ```
+4. Go to Run tab and select Run All
